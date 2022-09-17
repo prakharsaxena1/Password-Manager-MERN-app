@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "website": "https://www.facebook.com/",
+      "email": "abc123@gmail.com",
+      "password": "******"
+    },
+    {
+      "id": 2
+    },
+    {
+      "website": "https://instgram.com",
+      "email": "sdwd@gmail.com",
+      "password": "266888888",
+      "id": 3
+    },
+    {
+      "website": "https://instgram.com",
+      "email": "xgvjds@shdvwh.com",
+      "password": "12345678",
+      "id": 4
+    },
+    {
+      "website": "https://instgram.com",
+      "email": "sdwd@gmail.com",
+      "password": "lklklklklklkl",
+      "id": 5
+    },
+    {
+      "website": "https://instgram.com",
+      "email": "xgvjds@shdvwh.com",
+      "password": "abcdefgh",
+      "id": 6
+    },
+    {
+      "website": "https://instgram.com",
+      "email": "jp@gmail.com",
+      "password": "123456",
+      "id": 7
+    }
+  ],
+  "Notes": [
+    {
+      "title": "What is Lorem Ipsum?",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a g",
+      "id": 1
+    },
+    {
+      "title": "What is Lorem Ipsum?",
+      "description": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less nor",
+      "id": 2
+    },
+    {
+      "title": "Where does it come from?",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock",
+      "id": 4
+    },
+    {
+      "title": "aXDCfvgbhnhmafsgdhfjygu",
+      "description": "dfdgfhjsfdghfjygh",
+      "id": 8
+    },
+    {
+      "title": "FOOD",
+      "description": "Apple,Banana,Orange",
+      "id": 9
+    },
+    {
+      "title": "animal",
+      "description": "cat dog lion",
+      "id": 10
+    }
+  ]
+}
